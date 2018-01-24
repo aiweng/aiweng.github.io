@@ -1,14 +1,13 @@
 # Site settings
-name: 小可嗒嗒的博客
-email: maoxiaoke@outlook.com
-author: M/J
-url: http://xiaokedada.com
-resume_site: http://xiaokedada.com/me/
-github: https://github.com/maoxiaoke/
+name: 艾翁的博客
+email: long798266215@163.com
+author: Ivern
+url: https://aiweng.github.io/
+resume_site: https://aiweng.github.io/
+github: https://aiweng.github.io/
 baseurl: ""  #根目录
-description: 假如生活欺骗了你，不要悲伤，不要哭泣。
-motto: 我们笑着说再见，却深知再见遥遥无期。
-#motto: 如果生活欺骗了你，不要悲伤，不要哭泣。
+description: 快乐工作，认真生活。
+motto: The best preparation for tomorrow is doing your best today
 banner: 我想带你去看绚丽的山峦，去看秀丽的溪谷，这份心情，人类是如何称呼的呢。
 #permalink: /:categories/:year/:month/:day/:title/
 permalink: /:year/:month/:day/:title/
